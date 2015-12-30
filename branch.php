@@ -1,7 +1,7 @@
 <?php
 
 function hello(){
-	echo '<h1>hello</h1>';
+	echo '<h1>hello Thanh Hoa</h1>';
 }
 
 function goodbye(){
