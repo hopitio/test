@@ -5,7 +5,7 @@ function hello(){
 }
 
 function goodbye(){
-	echo '<h1>goodbye</h1>';
+	echo '<h1>goodbye Vietnam</h1>';
 }
 
 hello();
